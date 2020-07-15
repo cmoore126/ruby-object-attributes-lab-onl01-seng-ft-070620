@@ -11,3 +11,8 @@ end
 class Job
   def occupation = (my_job)
    @occupation = my_job
+
+ def occupation
+   @occupation
+ end 
+end
