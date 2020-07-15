@@ -10,7 +10,7 @@ end
 
 class Job
   def job=(job_name)
-   @job = job_name
+   @job_name = job_name
 end
 
  def job
