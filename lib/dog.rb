@@ -10,7 +10,7 @@ end
 
 class Breeds
   def initialize(breed_name)
-    @breed = breed
+    @breed = breed_name
   end
 
  def breed_name
