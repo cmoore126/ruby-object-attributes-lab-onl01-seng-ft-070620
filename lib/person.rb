@@ -7,3 +7,7 @@ end
     @name
   end
 end
+
+class Job
+  def occupation = (my_job)
+   @occupation = my_job
