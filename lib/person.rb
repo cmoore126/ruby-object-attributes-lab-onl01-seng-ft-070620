@@ -9,8 +9,8 @@ end
 end
 
 class Job
-  def job=(my_job)
-   @job = my_job
+  def job=(job_name)
+   @job = job_name
 end
 
  def job
