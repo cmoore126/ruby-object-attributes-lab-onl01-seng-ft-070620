@@ -15,5 +15,5 @@ end
 
  def occupation
    @occupation
- end 
+ end
 end
