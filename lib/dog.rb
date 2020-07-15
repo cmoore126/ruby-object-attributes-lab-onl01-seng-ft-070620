@@ -9,11 +9,11 @@ end
 end
 
 class Breeds
-  def initialize
-    @name = name
+  def initialize(breed_name)
+    @breed = breed
   end
 
- def name
-   @name
+ def breed_name
+   @breed
  end
 end
