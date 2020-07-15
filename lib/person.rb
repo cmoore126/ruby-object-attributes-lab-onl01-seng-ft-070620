@@ -8,7 +8,7 @@ end
   end
 end
 
-class Job_Title
+class Job
   def job=(job_name)
    @job_name = job_name
 end
