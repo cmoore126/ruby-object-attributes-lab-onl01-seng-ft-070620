@@ -9,11 +9,11 @@ end
 end
 
 class Job
-  def occupation=(my_job)
-   @occupation = my_job
+  def job =(my_job)
+   @job = my_job
 end
 
- def occupation
-   @occupation
+ def job
+   @job
  end
 end
