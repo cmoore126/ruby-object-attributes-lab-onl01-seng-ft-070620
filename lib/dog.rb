@@ -11,9 +11,9 @@ end
 class Breeds
   def initialize
     @name = name
-  end 
+  end
 
  def name
    @name
- end 
+ end
 end 
